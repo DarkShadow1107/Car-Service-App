@@ -1,0 +1,9 @@
+Customer:     John Doe, 0712345678
+Vehicle: Toyota, Corolla, 2015, B123XYZ, Petrol
+Customer:    Denisa Caldararu, 0725288043
+Vehicle: BMW, M2, 2020, PH77DEN, Benzina
+Customer:  Dumitru Claudia, 077
+Vehicle: BMW, M2, 2023, PH99UYH, Benzina
+Customer: 8 4213, 142
+Customer:  Dumitru Claudia, 077
+Vehicle: BMW, M2, 2023, PH99UYH, Benzina;
